@@ -1,0 +1,14 @@
+.city-input, .date-input {
+  width: 250px;
+}
+.daylightinfo {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.api-link {
+  font-size: 10px;
+  color: white;
+  position: absolute;
+  right:0;
+  top:0;
+}
